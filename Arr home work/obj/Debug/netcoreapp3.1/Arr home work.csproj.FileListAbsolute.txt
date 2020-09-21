@@ -1,0 +1,11 @@
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\bin\Debug\netcoreapp3.1\Arr home work.exe
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\bin\Debug\netcoreapp3.1\Arr home work.deps.json
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\bin\Debug\netcoreapp3.1\Arr home work.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\bin\Debug\netcoreapp3.1\Arr home work.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\bin\Debug\netcoreapp3.1\Arr home work.dll
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\bin\Debug\netcoreapp3.1\Arr home work.pdb
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\obj\Debug\netcoreapp3.1\Arr home work.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\obj\Debug\netcoreapp3.1\Arr home work.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\obj\Debug\netcoreapp3.1\Arr home work.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\obj\Debug\netcoreapp3.1\Arr home work.dll
+C:\Users\Anatoliy\source\repos\Arr home work\Arr home work\obj\Debug\netcoreapp3.1\Arr home work.pdb
